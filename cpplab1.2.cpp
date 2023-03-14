@@ -16,3 +16,5 @@ int main()
 	const int N = 15;
 	double z = 0, a[N];
 	int x, j, c = 0;
+	cout << "Определите характер заполнения: 1 - ручное, 2 - автоматическое" << endl;
+	cin >> x;
